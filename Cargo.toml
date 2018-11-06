@@ -1,0 +1,6 @@
+[package]
+name = "macos_diagcall"
+version = "0.1.0"
+authors = ["Jimi Sebree <jsebree@gmail.com>"]
+
+[dependencies]
